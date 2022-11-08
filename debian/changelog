@@ -1,3 +1,15 @@
+pt-os-ui-mods (1.7.20220210-2) bullseye; urgency=medium
+
+  * Updated master workflow files
+  * Updated master workflow files
+  * Build for arm64
+  * Point to fork Debian package building image
+  * Point to forked Debian package building action
+  * Revert "Point to forked Debian package building action"
+  * Point to forked Debian package building action
+
+ -- pi-top <deb-maintainers@pi-top.com>  Tue, 08 Nov 2022 12:56:00 +0000
+
 pt-os-ui-mods (1.7.20220210-1) bullseye; urgency=medium
 
   * Display wpa_gui in the start menu (#77)
